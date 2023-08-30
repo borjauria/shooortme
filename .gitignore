@@ -1,2 +1,4 @@
-secret.txt
+*.yml
+*.conf
+*.txt
 /temp
