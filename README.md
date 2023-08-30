@@ -1,1 +1,1 @@
-A simple short url app.
+Short url app 
