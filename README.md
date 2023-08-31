@@ -12,5 +12,5 @@ Responsive Design: Works seamlessly on mobile devices, tablets, and desktops.
 <h2>Installation 🤓</h2>
 Clone the repository
 https://github.com/borjauria/shooortme.git
-![carbon](https://github.com/borjauria/shooortme/assets/45542785/94be7d3a-7374-47e3-a982-e87f28432cb0)
 
+![carbon](https://github.com/borjauria/shooortme/assets/45542785/94be7d3a-7374-47e3-a982-e87f28432cb0)
