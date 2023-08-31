@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Your partner to shorten urls like a lightning! ⚡ {% endblock %}</h1>
+    <form method="post">
+    <div class="form-group">
+        <input type="text" name="url" placeholder="Your ugly url to shoort!" class="form-control" value="{{ request.form['url'] }}" autofocus></input>
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Shooort!</button>
+    </div>
+    </form>
+
+    {% if short_url %}
+    <hr>
+    <span><b>Your shooooooort link: </b><a href="{{ short_url }}" target="_blank">{{ short_url }}</span></a>
+    {% endif %}
+{% endblock %}
