@@ -3,11 +3,9 @@ A simple and efficient URL shortener.
 Convert long URLs into short and memorable ones!
 
 <h2>Features 💥</h2>
-Fast & Reliable: Shorten URLs in seconds.
-Secure: We take security seriously. Your URLs are safe with us.
-Statistics: Get insights about your shortened URLs.
-Custom Aliases: Choose your own custom short alias for your URLs.
-Responsive Design: Works seamlessly on mobile devices, tablets, and desktops.
+<p>. Fast & Reliable: Shorten URLs in seconds.</p>
+<p>. Custom Aliases: Choose your own custom short alias for your URLs.</p>
+<p>. Responsive Design: Works seamlessly on mobile devices, tablets, and desktops.</p>
 
 <h3>TRY IT NOW!</h3>
 https://partemelofinito.com
